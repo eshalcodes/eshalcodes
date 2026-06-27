@@ -25,6 +25,11 @@ Outside programming you'll probably find me reading, sketching, coaching Taekwon
 * open source
 
 ---
+## Currently working with
+
+* **Languages:** Python, JavaScript, C, C#
+* **Web:** HTML, CSS, React
+* **Tools:** Git, GitHub, VS Code
 
 # Projects
 
