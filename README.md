@@ -1,4 +1,4 @@
-HI, its me Eshal.
+Hi, its me Eshal.
 
 I don't think curiosity is something you can teach.
 
