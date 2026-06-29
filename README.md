@@ -8,9 +8,9 @@ Sometimes that question turns into a Python script.
 Sometimes it becomes a website.
 Sometimes it stays in a notebook for months until I finally understand enough to build it.
 
-Right now I'm a high school student from Karachi, Pakistan, learning software engineering, artificial intelligence, cybersecurity, and anything else that helps me understand how complicated systems work. My long-term goal is aerospace engineering, but I don't see disciplines as boxes, they're tools for answering different kinds of questions.
+Right now I'm a college student from Karachi, Pakistan, learning software engineering, artificial intelligence, astrophysics, and anything else that helps me understand how complicated systems work. My long-term goal is aerospace engineering, but I don't see disciplines as boxes, they're tools for answering different kinds of questions.
 
-Outside programming you'll probably find me reading, sketching, coaching Taekwondo, or disappearing into another astrophysics rabbit hole.
+Outside programming you'll probably find me reading, painting, skating, coaching Taekwondo, or disappearing into another astrophysics rabbit hole.
 
 ---
 
@@ -33,7 +33,7 @@ Outside programming you'll probably find me reading, sketching, coaching Taekwon
 
 # Projects
 
-The repository I'm most proud of so far is **Interstellar Verses**, a STEM project exploring the relationship between scientific discoveries and Qur'anic verses. It earned third place at a STEM Expo and convinced me that technology can make difficult ideas more accessible.
+The repository I'm most proud of so far is **Interstellar Verses**, a STEM project exploring the relationship between scientific discoveries and Qur'anic verses. It earned third place at UPSS annual STEAM Expo (2024) and convinced me that technology can make difficult ideas more accessible.It was my first full stack coding project and to see it cone together code by code was both an amazing and exhausting pursuit. It taught me a crucial thing, creativity is the only thing required to make something useful, coding is merely a skill.
 
 There are many more ideas than finished repositories at the moment, but that's changing.
 
@@ -47,7 +47,7 @@ Keep asking difficult questions.
 
 Build things that are useful.
 
-Don't confuse complexity with depth.
+Don't confuse complexity with depth, and remember that the universe meets you at your level of audacity.
 
 Stay curious.
 
